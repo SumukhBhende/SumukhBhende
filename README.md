@@ -1,5 +1,5 @@
 # 💫 About Me:
-Stocks price listing website<br>Machine Learning Projects<br>Developing UI for the website<br>IoT Projects<br>I Love Ice-cream
+🔭 I'm currently working on Stocks price listing website<br>👷🏻 I'm looking to collaborate on Machine Learning Projects<br>🤝 I'm looking for help with Developing UI for the website<br>🌱 I'm currently learning Kotlin for app development<br>💬 Ask me about IoT Projects<br>⚡ Fun fact, I Love Ice-cream
 
 
 ## 🌐 Socials:
